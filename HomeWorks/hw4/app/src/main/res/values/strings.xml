@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tfshw4</string>
+    <string name="add_document">Add document</string>
+    <string name="delete_document">Delete document</string>
+    <string name="delete_all">Delete all</string>
+    <string name="fragment">Fragment #</string>
+    <string name="no_fragments">No documents</string>
+</resources>
